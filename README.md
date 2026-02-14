@@ -51,10 +51,9 @@ It all started when I tried to print "Hello World" and accidentally deleted the 
 
 <details>
 <summary><b>🚫 Do NOT Click This Button</b></summary>
+<a href="https://techdeepdive.substack.com"><img src="https://img.shields.io/badge/Click%20Here%20For%20Free%20Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" /></a>
 <br/>
 You clicked it! You rebel. 
-<br/>
-<a href="https://techdeepdive.substack.com"><img src="https://img.shields.io/badge/Click%20Here%20For%20Free%20Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" /></a>
 <br/>
 *(I regret nothing)*
 </details>
@@ -72,7 +71,7 @@ You clicked it! You rebel.
 
 <!-- Top Languages Card -->
 <a href="https://github.com/techdeepdive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechDeepDive&layout=compact&theme=dracula&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdeepdive&layout=compact&theme=dracula&hide_border=true" />
 </a>
 
 </div>
