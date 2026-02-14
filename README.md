@@ -67,7 +67,7 @@ You clicked it! You rebel.
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/techdeepdive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechDeepDive&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=techdeepdive&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
 </a>
 
 <!-- Top Languages Card -->
