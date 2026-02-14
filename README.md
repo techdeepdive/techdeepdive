@@ -43,7 +43,7 @@ It all started when I tried to print "Hello World" and accidentally deleted the 
 <summary><b>🔮 What's in my Tech Stack?</b></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,sql,python,spring,react,nodejs,gcp,aws,docker,kubernetes,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,react,nodejs,gcp,aws,docker,kubernetes,git,linux" />
   <br/>
   <i>(And Stack Overflow, obviously)</i>
 </div>
