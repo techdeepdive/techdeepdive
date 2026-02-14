@@ -64,16 +64,21 @@ You clicked it! You rebel.
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<a href="https://github.com/techdeepdive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=techdeepdive&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
-</a>
-
-<!-- Top Languages Card -->
-<a href="https://github.com/techdeepdive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdeepdive&layout=compact&theme=dracula&hide_border=true" />
-</a>
-
+<!-- GitHub Stats (Profile Summary Cards) -->
+<div align="center">
+  <a href="https://github.com/techdeepdive">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techdeepdive&theme=dracula" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/techdeepdive">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=techdeepdive&theme=dracula" />
+  </a>
+  <a href="https://github.com/techdeepdive">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techdeepdive&theme=dracula" />
+  </a>
+</div>
 </div>
 
 <br/>
