@@ -21,7 +21,7 @@
 
 ## 🧐 Who am I?
 
-I'm a developer who spends too much time tweaking VS Code themes and not enough time writing documentation. Welcome to my digital garden! 🌱
+I'm a developer who spends too much time digging into tech mysteries and not enough time writing documentation. Welcome to my digital garden! 🌱
 
 - 🔭 I’m currently working on **Making AI understand my spaghetti code.**
 - 🌱 I’m currently learning **How to center a div without Googling it.**
