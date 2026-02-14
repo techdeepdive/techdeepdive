@@ -4,7 +4,7 @@
 
 <!-- Dynamic Typing Effect -->
 <a href="https://github.com/techdeepdive">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Turning+Coffee+into+Code...;Explaining+Complex+Tech+Simply...;Debugging+in+Production+(Oops)...;Building+the+Future+with+AI." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Turning+Coffee+into+Code...;Explaining+Complex+Tech+Simply...;DDDebugging+in+Production+(Oops)...;Building+the+Future+with+AI." alt="Typing SVG" />
 </a>
 
 <br/>
