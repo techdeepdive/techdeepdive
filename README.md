@@ -54,7 +54,7 @@ It all started when I tried to print "Hello World" and accidentally deleted the 
 <br/>
 You clicked it! You rebel. 
 <br/>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/Click%20Here%20For%20Free%20Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" /></a>
+<a href="[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://techdeepdive.substack.com/)"><img src="https://img.shields.io/badge/Click%20Here%20For%20Free%20Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" /></a>
 <br/>
 *(I regret nothing)*
 </details>
