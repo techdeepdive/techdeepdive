@@ -1,4 +1,5 @@
 <div align="center">
+![](https://komarev.com/ghpvc/?username=techdeepdive)
 
 # Hi there, I'm <a href="https://github.com/techdeepdive" target="_blank">Tech Deep Dive</a>! 👋
 
@@ -59,7 +60,6 @@ You clicked it! You rebel.
 </details>
 
 <br/>
-![](https://komarev.com/ghpvc/?username=techdeepdive)
 
 ## 📊 The "serious" Stats
 
