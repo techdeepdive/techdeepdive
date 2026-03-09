@@ -1,5 +1,9 @@
+[GitHub Profile Views Counter]: https://github.com/techdeepdive/github-profile-views-counter
 <div align="center">
-![](https://komarev.com/ghpvc/?username=techdeepdive)
+  
+<a href="https://github.com/techdeepdive">
+    <img src="https://komarev.com/ghpvc/?username=techdeepdive&style=for-the-badge">
+</a>
 
 # Hi there, I'm <a href="https://github.com/techdeepdive" target="_blank">Tech Deep Dive</a>! 👋
 
