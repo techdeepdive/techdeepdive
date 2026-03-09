@@ -59,7 +59,7 @@ You clicked it! You rebel.
 </details>
 
 <br/>
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=techdeepdive)
 ## 📊 The "serious" Stats
 
 <div align="center">
